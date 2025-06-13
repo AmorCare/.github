@@ -5,10 +5,12 @@ AmorCare adalah website yang dirancang dengan analisis berbasis Machine Learning
 Team ID : LAI25-SM007
 |            Nama             |   Bangkit-ID   |       Path        |     Role      |            University             |
 |:---------------------------:|:--------------:|:------------------:|:-------------:|:---------------------------------:|
-| [Paskalis Dwiputra Palayukan](https://github.com/pascal906)       | A206YAF390    | AI Engineer        | Data Researcher | Universitas Halu Oleo             |
-| [Muhammad Fariduddin Athar](https://github.com/Athar04-Stela)     | A299YBM077    | Machine Learning   | Back End        | Universitas Pendidikan Indonesia  |
-| [Fadhilah Nurrahmayanti](https://github.com/codedreamerD)         | A117XBM150    | Machine Learning   | Front End       | Institut Teknologi Nasional Bandung |
-| [Wahyuni Fajrin Rosyidah](https://github.com/wahyunirosyidah)     | A587XTM495    | Machine Learning   | -              | Universitas Papua                 |
+| [Paskalis Dwiputra Palayukan](https://github.com/pascal906)       | A206YAF390    | AI Engineer        | Project Lead & Data Research | Universitas Halu Oleo             |
+| [Muhammad Fariduddin Athar](https://github.com/Athar04-Stela)     | A299YBM077    | AI Engineer   | ML & Web Integration        | Universitas Pendidikan Indonesia  |
+| [Fadhilah Nurrahmayanti](https://github.com/codedreamerD)         | A117XBM150    | AI Engineer   | A117XBM150
+Fadhilah Nurrahmayanti
+Web Design & Front-End      | Institut Teknologi Nasional Bandung |
+| [Wahyuni Fajrin Rosyidah](https://github.com/wahyunirosyidah)     | A587XTM495    | AI Engineer   | Model Research & Training              | Universitas Papua                 |
 
 # Project Documentation
 - [Web Development](https://github.com/AmorCare/LAI25-SM007-AmorCare-Web)
