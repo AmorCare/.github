@@ -34,7 +34,7 @@ AmorCare adalah website yang dirancang dengan analisis berbasis Machine Learning
   - *F1-score (avg)*: 0.92  
   - Total kesalahan klasifikasi: 28 dari 336 data uji
 
-# Team Member
+## Team Member
 Team ID : LAI25-SM007
 
 |              Nama              |   ID   |     Path      |           Role            |              University               |
@@ -44,23 +44,23 @@ Team ID : LAI25-SM007
 | [Fadhilah Nurrahmayanti](https://github.com/codedreamerD)         | A117XBM150    | AI Engineer   | Web Design & Front-End               | Institut Teknologi Nasional Bandung  |
 | [Wahyuni Fajrin Rosyidah](https://github.com/wahyunirosyidah)     | A587XTM495    | AI Engineer   | Model Research & Training            | Universitas Papua                    |
 
-# Project Documentation
+## Project Documentation
 - [Web Development](https://github.com/AmorCare/LAI25-SM007-AmorCare-Web)
 - [Machine Learning](https://github.com/AmorCare/LAI25-SM007-AmorCare-MachineLearning)
 
-# Cara Menjalankan Aplikasi (Lokal)
+## Cara Menjalankan Aplikasi (Lokal)
 
-## Requirements
+### Requirements
 - flask
 - tensorflow
 - pillow
 
-## Clone repositori ini
+### Clone repositori ini
 ```bash
 git clone https://github.com/AmorCare/LAI25-SM007-AmorCare-Web.git
 cd LAI25-SM007-AmorCare-Web
 ```
-## Set up environment
+### Set up environment
 ```bash
 venv/Scripts/activate
 
