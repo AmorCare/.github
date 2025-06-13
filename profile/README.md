@@ -48,4 +48,21 @@ Team ID : LAI25-SM007
 - [Web Development](https://github.com/AmorCare/LAI25-SM007-AmorCare-Web)
 - [Machine Learning](https://github.com/AmorCare/LAI25-SM007-AmorCare-MachineLearning)
 
-   
+## Cara Menjalankan Aplikasi (Lokal)
+
+### Requirements
+- flask
+- tensorflow
+- pillow
+
+### Clone repositori ini
+```bash
+git clone https://github.com/AmorCare/LAI25-SM007-AmorCare-Web.git
+cd LAI25-SM007-AmorCare-Web
+```
+### Set up environment
+```bash
+venv/Scripts/activate
+
+python app.py
+```   
