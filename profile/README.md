@@ -3,11 +3,11 @@ AmorCare adalah website yang dirancang dengan analisis berbasis Machine Learning
 
 # Team Member
 Team ID : CH2-PS312
-|          Nama         | Bangkit-ID |       Path       |    University    |
+|          Nama         | Bangkit-ID |       Path       |    Role    |    University    |
 |:---------------------:|:----------:|:----------------:|:----------------:|
-|  [Paskalis Dwiputra Palayukan](https://github.com/pascal906)  |  A206YAF390  | Machine Learning | Universitas Halu Oleo |
-| [Muhammad Fariduddin Athar](https://github.com/Athar04-Stela) |  A299YBM077  | Machine Learning | Universitas Pendidikan Indonesia |
-|   [Fadhilah Nurrahmayanti](https://github.com/codedreamerD)    |  A117XBM150  |  Machine Learning | Institut Teknologi Nasional Bandung |
+|  [Paskalis Dwiputra Palayukan](https://github.com/pascal906)  |  A206YAF390  | AI Engineer | Data Researcher | Universitas Halu Oleo |
+| [Muhammad Fariduddin Athar](https://github.com/Athar04-Stela) |  A299YBM077  | Machine Learning | Back End | Universitas Pendidikan Indonesia |
+|   [Fadhilah Nurrahmayanti](https://github.com/codedreamerD)    |  A117XBM150  |  Machine Learning | Front End | Institut Teknologi Nasional Bandung |
 |  [Wahyuni Fajrin Rosyidah](https://github.com/wahyunirosyidah)  |  A587XTM495  | Machine Learning | Universitas Papua |
 
 # Project Documentation
