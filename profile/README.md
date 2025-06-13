@@ -1,7 +1,6 @@
 # AmorCare App
 AmorCare adalah website yang dirancang dengan analisis berbasis Machine Learning untuk membantu pengguna memahami jenis kulit mereka, menemukan produk skincare yang sesuai, dan membentuk rutinitas perawatan kulit yang sehat. AmorCare berkomitmen untuk menjadikan perawatan kulit lebih mudah diakses, khususnya bagi masyarakat Indonesia yang mencari solusi lokal dan alami untuk kulit yang lebih sehat dan percaya diri.
 
-
 ##  Fitur Utama
 -  **Klasifikasi Jenis Kulit Otomatis**  
   Deteksi jenis kulit (berminyak, jerawat, normal) melalui input gambar wajah.
@@ -27,7 +26,7 @@ AmorCare adalah website yang dirancang dengan analisis berbasis Machine Learning
 
 ## Model Performance  
 - **Akurasi Validasi**: 92%  
-- **Jumlah data**: 1.118 gambar  
+- **Jumlah data**: 3354 gambar  
 - **Split data**: 80% train, 10% validation, 10% test  
 - **Hasil evaluasi:**  
   - *Precision (avg)*: 0.92  
