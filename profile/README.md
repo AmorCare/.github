@@ -23,6 +23,7 @@ AmorCare adalah website yang dirancang dengan analisis berbasis Machine Learning
 | Scikit-learn        | Evaluasi performa model           |
 | Flask   | Web deployment         |
 | Figma               | UI/UX design                      |
+| HTML, CSS, JS       | Front-end Implementation          |
 
 ## Model Performance  
 - **Akurasi Validasi**: 92%  
