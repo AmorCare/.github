@@ -1,4 +1,4 @@
-# LokaJamu App
+# AmorCare App
 AmorCare adalah website yang dirancang dengan analisis berbasis Machine Learning untuk membantu pengguna memahami jenis kulit mereka, menemukan produk skincare yang sesuai, dan membentuk rutinitas perawatan kulit yang sehat. AmorCare berkomitmen untuk menjadikan perawatan kulit lebih mudah diakses, khususnya bagi masyarakat Indonesia yang mencari solusi lokal dan alami untuk kulit yang lebih sehat dan percaya diri.
 
 # Team Member
