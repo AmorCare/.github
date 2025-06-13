@@ -21,7 +21,7 @@ AmorCare adalah website yang dirancang dengan analisis berbasis Machine Learning
 | MobileNetV2         | Base model (transfer learning)    |
 | NumPy, Matplotlib   | Visualisasi dan pengolahan data   |
 | Scikit-learn        | Evaluasi performa model           |
-| Streamlit / Flask   | (opsional) Web deployment         |
+| Flask   | Web deployment         |
 | Figma               | UI/UX design                      |
 
 ## Model Performance  
