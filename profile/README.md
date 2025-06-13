@@ -48,10 +48,4 @@ Team ID : LAI25-SM007
 - [Web Development](https://github.com/AmorCare/LAI25-SM007-AmorCare-Web)
 - [Machine Learning](https://github.com/AmorCare/LAI25-SM007-AmorCare-MachineLearning)
 
-
-# Set up environment
-
-          venv/Scripts/activate
-          
-          python app.py
    
