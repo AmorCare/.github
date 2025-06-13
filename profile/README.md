@@ -18,9 +18,9 @@ Team ID : LAI25-SM007
 #Deploy
 [AmorCare](https://amorcare.netlify.app/)
 
-#Set up environment
-    '''
+# Set up environment
+
           venv/Scripts/activate
           
           python app.py
-    '''
+   
